@@ -1,2 +1,2 @@
 # focusbase-releases
-Public releases for focusbase for auto-updates
+Public releases for focusbase.com for auto-updates
